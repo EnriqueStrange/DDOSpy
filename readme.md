@@ -1,3 +1,11 @@
 THIS IS FOR EDUCATIONAL PURPOSES ONLY
 
 USAGE AND UNDERSTANDING ABOUT HOW TO WRITE THIS PROGRAM IS ON YOUTUBE CHANNEL NAMED STRANGE LEARNINGS
+
+MODULES USED
+
+from pip._vendor.distlib.compat import raw_input
+import socket
+import threading
+import pyfiglet
+
